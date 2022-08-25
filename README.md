@@ -10,7 +10,7 @@ Fork this repository. When that process has completed, make sure that the top of
 
 Press the green "Code" button and select "Open in GitHub Desktop". Allow the browser to open (or install) GitHub Desktop. Once GitHub Desktop has loaded, you should see a window labeled "Clone a Repository" asking you for a Local Path on your computer where the project should be copied. Choose a location where you will keep the repositories for this class (a C220 folder off your Desktop would be fine). Make sure the Local Path ends with "Exercise-01b-Twine-Project" and then press the "Clone" button. GitHub Desktop will now download a copy of the repository to the location you indicated.
 
-Open Twine, and press the "+ Story" button in the right side bar. When you are asked what your story should be named, enter "Zork". Press the "+Add" button to get started.
+Open Twine, and press the "+New" button in the top left corner of the window. When you are asked what your story should be named, enter "Zork". Press the "Create" button to get started.
 
 You should now see a window with a blue grid background. There should be a node in the middle of the window labeled "Untitled Passage". Double click on the node to open it.
 
@@ -72,11 +72,11 @@ Follow that same process with each of the newly created passages. When you are d
    * Exits:
      * EAST->East of House
 
-Once you have added each of these passages, close the passage edit window. Down in the bottom right corner of the workspace is a button labeled "Play". Press that now.
+Once you have added each of these passages, close the passage edit window. In the top menu bar, you should see a menu labeled "Build". In the Build Menu, select "Play".
 
 The game should load in your browser. You should be able to press the links to take you from one location to another.
 
-When you are done, return to Twine. On the bottom bar press the "Zork" label. In the resulting menu, select "Publish to File".
+When you are done, return to Twine. In the Build Menu, select "Publish to File".
 
 Navigate to the location of your repository in your file system. Save the file as Zork.html in the repository (Exercise-01b-Twine-Project) folder.
 
